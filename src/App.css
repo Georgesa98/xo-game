@@ -129,6 +129,9 @@
   background: #D9D9D9;
   font-size: 28px;
 }
+#start-game-btn:active {
+  background-color: background: #858585;
+}
 #team-logo{
   margin-top: 15px;
 }
